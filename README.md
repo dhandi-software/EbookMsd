@@ -1,4 +1,4 @@
 # E-Book-MSD
 Create By :
-@Azharrabbani
-@DhandiAdam
+Muhammad Azhar rabbani - https://github.com/Azharrabbani
+DhandiAdam
